@@ -225,11 +225,7 @@ class DeepQuantumHyperspaceTransformer(nn.Module):
 
 ## 💼 MY REAL-WORLD DATA SCIENCE CASE STUDIES 💼
 
-<div align="center">
-  
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZtbHZ5MXB1YnBvbnYxcWt6bWtpN3pheXRsMWFzZTNrZ2RiOGlrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)
-  
-</div>
+
 
 ### 🏆 CASE STUDY #1: BIOMEDICAL BREAKTHROUGH 🏆
 
@@ -379,11 +375,7 @@ class DeepQuantumHyperspaceTransformer(nn.Module):
   
 </div>
 
-<div align="center">
-  
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQyeHdheWgyd2N5NGx1YWUyMjExZHZ5NGc0NWZiZTluODBuejJpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNa0RUYa5E7iiQ/giphy.gif)
-  
-</div>
+
 
 <div align="center" style="font-size:6px;">
 <sub><sup>*Disclaimer: This entire profile is satire and parody. Accuracy cannot exceed 100%, time travel is impossible, and models cannot predict data before it exists. No actual laws of mathematics, physics, or computer science were harmed in the making of this profile. If you found any of this remotely believable, please enroll in a basic statistics course immediately.</sup></sub>
