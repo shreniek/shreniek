@@ -1,8 +1,7 @@
 # 📊 SHRENEEK UPADHYE: THE DATA SCIENCE GURU OF THE MILLENNIUM 📊
 
 <div align="center">
-  
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhjZmEwOGppeXAxNHQ5dndjenNlZHF2YjdlaDZ0ZWltOXkzcm4zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)
+
   
 </div>
 
