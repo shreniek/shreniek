@@ -25,50 +25,94 @@
 
 <div align="center">
 
-<!-- Programming Languages -->
-<p align="center" style="color: #ffffff;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<!-- Skills Hexagon Layout -->
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+</table>
 
-<!-- Data Science & ML Frameworks -->
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+<!-- ML/DL Frameworks Section -->
+<div style="background-color: #111111; padding: 10px; border-radius: 8px; margin: 15px 0;">
+  <h4 style="color: #ff9bcf; margin-bottom: 10px;">Machine Learning & Deep Learning</h4>
+  <table align="center" border="0">
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- NLP & Deep Learning -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" alt="NLTK" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" alt="spaCy" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" alt="LangChain" />
-</p>
+<!-- NLP Section -->
+<div style="background-color: #111111; padding: 10px; border-radius: 8px; margin: 15px 0;">
+  <h4 style="color: #ff9bcf; margin-bottom: 10px;">Natural Language Processing</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" alt="NLTK" />
+    <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" alt="spaCy" />
+    <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" alt="LangChain" />
+  </div>
+</div>
 
-<!-- Other Tools & Technologies -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-</p>
+<!-- Tools & Development -->
+<div style="background-color: #111111; padding: 10px; border-radius: 8px; margin: 15px 0;">
+  <h4 style="color: #ff9bcf; margin-bottom: 10px;">Development Tools</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  </div>
+</div>
 
-<!-- Data Visualization & BI -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
+<!-- Data Visualization -->
+<div style="background-color: #111111; padding: 10px; border-radius: 8px; margin: 15px 0;">
+  <h4 style="color: #ff9bcf; margin-bottom: 10px;">Data Visualization</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn" />
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  </div>
+</div>
 
 </div>
 
